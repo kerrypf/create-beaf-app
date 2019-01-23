@@ -11,6 +11,10 @@
   "bin": {
     "create-beaf-app": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerrypf/create-beaf-app.git"
+  },
   "dependencies": {
     "chalk": "^2.4.1",
     "commander": "^2.19.0",
