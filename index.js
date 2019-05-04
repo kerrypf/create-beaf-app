@@ -12,7 +12,7 @@ if (major < 8) {
       'You are running Node ' +
       currentNodeVersion +
       '.\n' +
-      '@mogul/create-mogul-app requires Node 8 or higher. \n' +
+      'create-beaf-app requires Node 8 or higher. \n' +
       'Please update your version of Node.'
     )
   );

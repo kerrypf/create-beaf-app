@@ -401,6 +401,7 @@ function run(
       'lodash',
       "axios",
       "json-server",
+      'moment',
       packageToInstall
     ];
   
